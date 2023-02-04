@@ -1,2 +1,2 @@
-./backend/.env
-./backend/db.sqlite
+/backend/.env
+/backend/db.sqlite
